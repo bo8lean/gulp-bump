@@ -1,0 +1,25 @@
+{
+  "name": "gulp-bump",
+  "version": "1.0.0",
+  "description": "Booolean play on use of gulp bump",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bo8lean/gulp-bump.git"
+  },
+  "keywords": [
+    "booolean",
+    "gulp",
+    "bump",
+    "version"
+  ],
+  "author": "Bala Thavapalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bo8lean/gulp-bump/issues"
+  },
+  "homepage": "https://github.com/bo8lean/gulp-bump#readme"
+}
